@@ -13,7 +13,6 @@ def tutor_menu():
     )
     keyboard.add(
         KeyboardButton("📊 Отчет о прошедших занятиях"),
-        KeyboardButton("👤 Добавить ученика")
     )
     return keyboard
 
