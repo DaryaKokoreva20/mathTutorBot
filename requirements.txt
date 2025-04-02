@@ -1,2 +1,4 @@
 python-dotenv==1.0.1
 pyTelegramBotAPI==4.26.0
+pandas==2.2.2
+openpyxl==3.1.2
